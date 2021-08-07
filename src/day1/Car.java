@@ -8,5 +8,6 @@ public class Car {
         System.out.println("newly added line 8");
 
         System.out.println("about to see them conflict");
+        System.out.println("conflict2 ");
     }
 }
