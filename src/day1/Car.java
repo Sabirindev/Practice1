@@ -7,5 +7,6 @@ public class Car {
         System.out.println("change on line 7 from sabir local");
         System.out.println("newly added line 8");
 
+        System.out.println("about to see them conflict");
     }
 }
